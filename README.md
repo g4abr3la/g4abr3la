@@ -1,3 +1,3 @@
-Olá, sou Gabriela! Atualmente, estou avançando na minha jornada acadêmica cursando Engenharia de Software na UnB. Me acompanhe por aqui!
+👋Olá, sou Gabriela! Atualmente, estou avançando na minha jornada acadêmica cursando Engenharia de Software na UnB. Me acompanhe por aqui!
 
-Atualmente estudando: javascript, python e mysql.
+💻 Atualmente estudando: javascript, python e mysql.
